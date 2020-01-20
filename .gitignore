@@ -1,6 +1,6 @@
 # Created by .ignore support plugin (hsz.mobi)
 
 .idea
+.idea/*.xml
+SpiritofDeath.github.io.iml
 
-*.xml
-*.iml
