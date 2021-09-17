@@ -18,7 +18,7 @@ remote_theme             : mmistakes/minimal-mistakes
 
 # Site Settings
 locale                   : "en-US"
-title                    : "SpiritOfDeath"
+title                    : "Lucifer.Morning.Star"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Lucifer.Morning.Star"
@@ -111,9 +111,9 @@ analytics:
 author:
   name             : "Lucifer.Morning.Star"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : ""
-  location         : "Somewhere"
-  email            :
+#  bio              : ""
+#  location         : "Somewhere"
+  email            : "lucifermorning@kaka.com"
 #  links:
 #    - label: "Email"
 #      icon: "fas fa-fw fa-envelope-square"
